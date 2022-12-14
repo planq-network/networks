@@ -137,6 +137,13 @@
       "delegator_starting_infos": [],
       "validator_slash_events": []
     },
+    "erc20": {
+      "params": {
+        "enable_erc20": true,
+        "enable_evm_hook": true
+      },
+      "token_pairs": []
+    },
     "evidence": {
       "evidence": []
     },
